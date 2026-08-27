@@ -18,7 +18,9 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Francesco-Biscaccia&layout=compact&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&hide_values=true&theme=dark)
+
+[![Top Language](https://github-stats-extended.vercel.app/api/top-langs?username=Francesco-Biscaccia&layout=donut&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&hide_values=true&theme=dark)
+
 
 ---
 ### 📚 Currently Learning
