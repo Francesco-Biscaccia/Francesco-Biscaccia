@@ -1,6 +1,6 @@
 # Hi, I'm Francesco Biscaccia Carrara! 👋
 
-🎓 Computer Engineer, graduated from the University of Padua. 
+🎓 Computer Engineer, graduated from the University of Padua.
 💻 Passionate about Linear Optimization, Machine Learning and Parallelization Computing.  
 🌍 Based in Venice, Italy 🇮🇹.  
 
