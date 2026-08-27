@@ -2,9 +2,9 @@
 
 🎓 Computer Engineer, graduated from the University of Padua.  
 💻 Passionate about Linear Optimization, Machine Learning and Parallelization Computing.  
-🌍 Based in Venice, Italy 🇮🇹.  
+🌍 Based in Venice, Italy 🇮🇹. 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Francesco-Biscaccia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Francesco-Biscaccia&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)
 ---
 
 ### 🛠️ Tech Stack
