@@ -4,7 +4,7 @@
 💻 Passionate about Linear Optimization, Machine Learning and Parallelization Computing.  
 🌍 Based in Venice, Italy 🇮🇹.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francesco-Biscaccia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Francesco-Biscaccia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠️ Tech Stack
